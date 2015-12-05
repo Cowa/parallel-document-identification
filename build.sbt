@@ -1,4 +1,4 @@
-name := "wikipedia-crosslanguage-linker"
+name := "parallel-document-identification"
 
 version := "1.0"
 
